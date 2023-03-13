@@ -1,0 +1,31 @@
+.global_section{
+    border: 1px solid black;
+    width: 40%;
+    margin: auto;
+    overflow: hidden;
+
+}
+
+.section_form{
+    float: left;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid black;
+    max-width: 400px;
+}
+
+.section_input{
+    padding: 10px;
+}
+
+.section_table{
+    margin: 50px;
+    float: right;
+    max-width: 400px;
+
+}
+td{
+    margin: 0;
+    padding: 10px;
+    border: 1px solid black;
+}
